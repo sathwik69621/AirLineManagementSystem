@@ -1,4 +1,4 @@
-# ✈️ Airline Management System (Java)
+# ✈️ Airline Management System Using java
 
 ## 📌 Overview
 
